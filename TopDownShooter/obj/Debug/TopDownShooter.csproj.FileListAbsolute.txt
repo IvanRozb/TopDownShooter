@@ -1,0 +1,22 @@
+C:\TopDownShooter\TopDownShooter\obj\Debug\TopDownShooter.csproj.AssemblyReference.cache
+C:\TopDownShooter\TopDownShooter\obj\Debug\TopDownShooter.csproj.SuggestedBindingRedirects.cache
+C:\TopDownShooter\TopDownShooter\obj\Debug\TopDownShooter.Form1.resources
+C:\TopDownShooter\TopDownShooter\obj\Debug\TopDownShooter.Properties.Resources.resources
+C:\TopDownShooter\TopDownShooter\obj\Debug\TopDownShooter.csproj.GenerateResource.cache
+C:\TopDownShooter\TopDownShooter\obj\Debug\TopDownShooter.csproj.CoreCompileInputs.cache
+C:\TopDownShooter\TopDownShooter\bin\Debug\TopDownShooter.exe.config
+C:\TopDownShooter\TopDownShooter\bin\Debug\TopDownShooter.exe
+C:\TopDownShooter\TopDownShooter\bin\Debug\TopDownShooter.pdb
+C:\TopDownShooter\TopDownShooter\obj\Debug\TopDownShooter.exe
+C:\TopDownShooter\TopDownShooter\obj\Debug\TopDownShooter.pdb
+C:\New folder\TopDownShooter\TopDownShooter\bin\Debug\TopDownShooter.exe.config
+C:\New folder\TopDownShooter\TopDownShooter\bin\Debug\TopDownShooter.exe
+C:\New folder\TopDownShooter\TopDownShooter\bin\Debug\TopDownShooter.pdb
+C:\New folder\TopDownShooter\TopDownShooter\obj\Debug\TopDownShooter.csproj.AssemblyReference.cache
+C:\New folder\TopDownShooter\TopDownShooter\obj\Debug\TopDownShooter.csproj.SuggestedBindingRedirects.cache
+C:\New folder\TopDownShooter\TopDownShooter\obj\Debug\TopDownShooter.Form1.resources
+C:\New folder\TopDownShooter\TopDownShooter\obj\Debug\TopDownShooter.Properties.Resources.resources
+C:\New folder\TopDownShooter\TopDownShooter\obj\Debug\TopDownShooter.csproj.GenerateResource.cache
+C:\New folder\TopDownShooter\TopDownShooter\obj\Debug\TopDownShooter.csproj.CoreCompileInputs.cache
+C:\New folder\TopDownShooter\TopDownShooter\obj\Debug\TopDownShooter.exe
+C:\New folder\TopDownShooter\TopDownShooter\obj\Debug\TopDownShooter.pdb
